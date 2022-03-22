@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Electric Ordering", "Electric Ordering\Electric Ordering.vbproj", "{E88B4193-D9D9-49CB-AD92-83B444B7228E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E88B4193-D9D9-49CB-AD92-83B444B7228E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E88B4193-D9D9-49CB-AD92-83B444B7228E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E88B4193-D9D9-49CB-AD92-83B444B7228E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E88B4193-D9D9-49CB-AD92-83B444B7228E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A403E4C-F515-4401-A85D-A68AA590F994}
+	EndGlobalSection
+EndGlobal
